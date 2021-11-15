@@ -771,4 +771,4 @@ diff.INSERT = DIFF_INSERT;
 diff.DELETE = DIFF_DELETE;
 diff.EQUAL = DIFF_EQUAL;
 
-module.exports = diff;
+export default diff;
